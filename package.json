@@ -1,0 +1,27 @@
+{
+  "name": "quiz",
+  "version": "0.4.1",
+  "description": "All Silk Mastering House",
+  "scripts": {
+    "dev": "cross-env IS_DEV=TRUE nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vohzd/quiz.git"
+  },
+  "author": "vohzd",
+  "bugs": {
+    "url": "https://github.com/vohzd/quiz/issues"
+  },
+  "homepage": "https://github.com/vohzd/quiz#readme",
+  "dependencies": {
+    "cross-env": "^7.0.2",
+    "hooper": "^0.3.4",
+    "nuxt": "^2.12.2",
+    "vue-compare-image": "^0.2.0"
+  }
+}
