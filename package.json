@@ -21,7 +21,7 @@
   "dependencies": {
     "cross-env": "^7.0.2",
     "hooper": "^0.3.4",
-    "nuxt": "^2.12.2",
+    "nuxt": "^2.15.8",
     "vue-compare-image": "^0.2.0"
   }
 }
